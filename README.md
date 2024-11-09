@@ -1,26 +1,28 @@
-# RUTA PROGRAMADOR
+# :rocket:RUTA DE PROGRAMADOR
 
-> Repositorio de ruta de aprendizaje para desarrollador desde principiante hasta senior
+> [!TIP]
+> Repositorio de ruta de aprendizaje para desarrolladores desde principiante hasta senior
+> Estructura Inicial:
+>  - Teoria
+>  - Resumen
+>  - Mini Proyecto
+> **Proyecto por cada etapa de avance**
 
 ## Contenido
 
-- [ ] #739
-- [ ] [✔️Link data](https://github.com/octo-org/octo-repo/issues/740)
-- [ ] \(Optional) open a follwoup issue
+#### Introduccion a la programacion
+>[!NOTE]
+> Referencias [MIT OCW](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/)
+- [x] What is computation?	
+- [x] [✔️Link data](https://github.com/octo-org/octo-repo/issues/740)
+- [x] Branching and Iteration	
+- [ ] String Manipulation, Guess and Check, Approximations, Bisection	
+    - [x] prueba
+- [ ] Proyecto Final
+
+#### Algoritmos
+- [x] Searching and Sorting	
+- [x] [✔️Link data](https://github.com/octo-org/octo-repo/issues/740)
+- [x] \(Optional) open a follwoup issue
 - [ ] 
-    - [ ] asdsdad
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+    - [x] asdsdad
