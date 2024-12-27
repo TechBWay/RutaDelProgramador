@@ -4,23 +4,17 @@
 > Estructura Inicial:
 >  - Teoria
 >  - Resumen
->  - Mini Proyecto
-> **Proyecto por cada etapa de avance**
-
- emojis : :white_check_mark: :books: :notebook_with_decorative_cover: :arrow_forward: :computer: :open_file_folder:
-
+>  - Proyectos
 
 ## Contenido
 ### Introduccion a la programación
 >[!NOTE]
 > Referencias de teoria
-> [MIT OCW](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/)
-
- [ :notebook_with_decorative_cover:  Notas](linkhere) | [:arrow_forward:Video](linkhere) | [:computer: Proyectos](proyectos/introprograming.md)
-
-- [ ] ***Introduccion***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+> [MIT OCW](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
+[ :notebook_with_decorative_cover:  Notas](linkhere) | [:arrow_forward:Video](linkhere) | [:computer: Proyectos](proyectos/introprograming.md)
+- [ ] ***Introduccion***[ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Strings, Entrada/Salida, y Condicionales***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Bucles***	  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Bucles***[ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Bucles sobre Strings, Binarios***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Floats y Métodos de Aproximación***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Búsqueda por Bisección***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
@@ -106,6 +100,7 @@
 >[!NOTE]
 > Referencias de teoria
 > [MIT OCW](https://web.mit.edu/6.102/www/sp24/)
+
 - [ ] ***Introduccion***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Instalación de Software***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Consejos Técnicos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
@@ -138,6 +133,7 @@
 >[!NOTE]
 > Referencias de teoria
 > [MIT OCW](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+
 - [ ] ***Introduccion, Programación por Intervalos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Divide y Vencerás: Convex Hull, Búsqueda de la Mediana***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Divide y Vencerás: Transformada Rápida de Fourier (FFT)***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
@@ -164,15 +160,32 @@
 - [ ] ***Algoritmos Cache-Oblivious: Búsqueda y Ordenación***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 
 ### Introducción a la probabilidad
+:soon:
+
 ### Algebra Lineal
+:soon:
+
 ### Introducción a la programación de bajo nivel
+:soon:
+
 ### Estructuras de Computación	
+:soon:
+
 ### Diseño y Arquitectura de Sistemas Computacionales
+:soon:
+
 ### Sistemas de Base de datos
+:soon:
+
 ### Desarrollo de Software
 https://ocw.mit.edu/courses/6-170-software-studio-spring-2013/
 https://61040-fa23.github.io/
+:soon:
+
 ### Inteligencia Artificial
 https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/video_galleries/lecture-videos/
+:soon:
+
 ### Introduccion al Aprendizaje Automatico
 https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/
+:soon:

@@ -14,7 +14,7 @@ Proyecto ha sido completado.
 ##### PROYECTOS
 | NOMBRE  | DIFICULTAD | DESCRIPCION | LINK | ESTADO|
 | ------- | -----------| ------------| -----| --------|
-| PROYECTO1| FACIL  |  EJECUTAR | [LINK PROYECTO](DATA)|:soon:|
+| | FACIL  |  EJECUTAR | [LINK PROYECTO](DATA)|:soon:|
 | PROYECTO2| FACIL  |  EJECUTAR | [LINK PROYECTO](DATA)|:soon:| 
 | PROYECTO3| FACIL  |  EJECUTAR | [LINK PROYECTO](DATA)|:soon:|
 | PROYECTO4| FACIL  |  EJECUTAR | [LINK PROYECTO](DATA)|:soon:|

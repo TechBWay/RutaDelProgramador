@@ -10,6 +10,7 @@ Proyecto esta siendo trabajado.
 ###### **Listo**  :white_check_mark: 
 Proyecto ha sido completado.
 
+:white_check_mark: :books: :notebook_with_decorative_cover: :arrow_forward: :computer: :open_file_folder:
 
 ##### PROYECTOS
 | NOMBRE  | DIFICULTAD | DESCRIPCION | LINK | ESTADO|
