@@ -12,8 +12,8 @@
 > Referencias de teoria
 > [MIT OCW](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
 [ :notebook_with_decorative_cover:  Notas](linkhere) | [:arrow_forward:Video](linkhere) | [:computer: Proyectos](proyectos/introprograming.md)
-- [x] ***Introduccion***[ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [x] ***Strings, Entrada/Salida, y Condicionales***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [] ***Introduccion***[ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [] ***Strings, Entrada/Salida, y Condicionales***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Bucles***[ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Bucles sobre Strings, Binarios***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Floats y Métodos de Aproximación***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
@@ -125,18 +125,56 @@
 - [ ] ***Algoritmos Cache-Oblivious: Medianas y Matrices***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Algoritmos Cache-Oblivious: Búsqueda y Ordenación***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 
-### Introducción a la programación de bajo nivel
-:soon:
+
+### Introducción a la programación de bajo nivel en C y ensamblador
+>[!NOTE]
+> Referencias de teoria
+> [MIT OCW](https://evalandaply.neocities.org/books/lowlevelprogramming.pdf)
+
+
 
 ### Estructuras de Computación	
-:soon:
+>[!NOTE]
+> Referencias de teoria
+> [MIT OCW](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)
+
+- [ ]  ***Conceptos básicos de la información: entropía, codificaciones, corrección de errores*** :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] La abstracción digital: lógica combinacional, codificación basada en voltaje :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] CMOS: MOSFETs, diseño de compuertas; temporización :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Lógica combinacional: formas canónicas, síntesis, simplificación :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Lógica secuencial: biestables, registros, temporización :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Máquinas de estados finitos (FSM); entradas asíncronas y metastabilidad :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Medidas de rendimiento: rendimiento (throughput) y latencia, segmentación (pipelining) :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Compromisos de diseño: potencia, velocidad, área, rendimiento :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Arquitecturas von Neumann, conjunto de instrucciones Beta :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Lenguaje ensamblador :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Compilación de expresiones y sentencias :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Pilas y procedimientos :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Implementación de Beta :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Memorias multinivel: localidad, rendimiento, cachés :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Problemas de diseño de caché :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Segmentación del Beta: diagramas de segmentación, riesgos de datos :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Segmentación del Beta: riesgos de control, manejo de excepciones :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Memoria virtual: mapeo, protección, contextos :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Máquinas virtuales: multitarea, núcleos del SO, llamadas al supervisor :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Dispositivos e interrupciones; tiempo real :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Procesos comunicantes: semáforos, sincronización, atomicidad, interbloqueo :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Comunicación a nivel de sistema :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Procesamiento en paralelo: límites de rendimiento, paralelismo a nivel de datos e hilos :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Construyendo un Mejor Beta: consejos para el proyecto de diseño :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+
 
 ### Sistemas Operativos
-https://pdos.csail.mit.edu/6.1810/2023/overview.html
+>[!NOTE]
+> Referencias de teoria
+> [MIT OCW](https://pdos.csail.mit.edu/6.1810/2023/overview.html)
 
+- [ ] ***Introduccion***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 
 ### Sistemas de Base de datos
-:soon:
+>[!NOTE]
+> Referencias de teoria
+> [MIT OCW](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/)
 
 
 ### Software Construction
