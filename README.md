@@ -1,10 +1,10 @@
 # :rocket:RUTA DEL PROGRAMADOR
 > [!TIP]
-> Repositorio de ruta de aprendizaje para desarrolladores desde principiante hasta senior
+> Repositorio de ruta de aprendizaje para desarrolladores desde principiante hasta avanzado
 > Estructura Inicial:
 >  - Teoria
 >  - Resumen
->  - Proyectos
+>  - Ejercicios/Proyectos
 
 ## Contenido
 ### Introduccion a la programación
@@ -12,8 +12,8 @@
 > Referencias de teoria
 > [MIT OCW](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
 [ :notebook_with_decorative_cover:  Notas](linkhere) | [:arrow_forward:Video](linkhere) | [:computer: Proyectos](proyectos/introprograming.md)
-- [ ] ***Introduccion***[ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Strings, Entrada/Salida, y Condicionales***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [x] ***Introduccion***[ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [x] ***Strings, Entrada/Salida, y Condicionales***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Bucles***[ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Bucles sobre Strings, Binarios***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Floats y Métodos de Aproximación***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
@@ -95,6 +95,49 @@
 - [ ] ***Complejidad***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 - [ ] ***Algoritmos—Próximos Pasos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 
+### Diseños de Algoritmos
+>[!NOTE]
+> Referencias de teoria
+> [MIT OCW](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+
+- [ ] ***Introduccion, Programación por Intervalos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Divide y Vencerás: Convex Hull, Búsqueda de la Mediana***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Divide y Vencerás: Transformada Rápida de Fourier (FFT)***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Divide y Vencerás: Árboles de van Emde Boas***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Amortización: Análisis Amortizado***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Aleatorización: Multiplicación de Matrices, Quicksort***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Aleatorización: Listas de Salto***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Aleatorización: Hashing Universal y Perfecto***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Aumento: Árboles de Rango***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Programación Dinámica: Programación Dinámica Avanzada***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Programación Dinámica: Caminos Más Cortos de Todos los Pares***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Algoritmos Greedy: Árbol de Expansión Mínima***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Mejora Incremental: Máximo Flujo, Corte Mínimo***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Mejora Incremental: Emparejamiento***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Programación Lineal: LP, Reducciones, Simplex***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Complejidad: P, NP, NP-completitud, Reducciones***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Complejidad: Algoritmos de Aproximación***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Complejidad: Algoritmos de Parámetros Fijos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Algoritmos Distribuidos Síncronos: Rompimiento de Simetría. Árboles de Expansión de Caminos Más Cortos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Algoritmos Distribuidos Asíncronos: Árboles de Expansión de Caminos Más Cortos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Criptografía: Funciones Hash***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Criptografía: Encriptación***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Algoritmos Cache-Oblivious: Medianas y Matrices***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Algoritmos Cache-Oblivious: Búsqueda y Ordenación***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+
+### Introducción a la programación de bajo nivel
+:soon:
+
+### Estructuras de Computación	
+:soon:
+
+### Sistemas Operativos
+https://pdos.csail.mit.edu/6.1810/2023/overview.html
+
+
+### Sistemas de Base de datos
+:soon:
+
 
 ### Software Construction
 >[!NOTE]
@@ -129,63 +172,10 @@
 - [ ] ***Lenguajes Pequeños***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 
 
-### Diseños de Algoritmos
->[!NOTE]
-> Referencias de teoria
-> [MIT OCW](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
-
-- [ ] ***Introduccion, Programación por Intervalos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Divide y Vencerás: Convex Hull, Búsqueda de la Mediana***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Divide y Vencerás: Transformada Rápida de Fourier (FFT)***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Divide y Vencerás: Árboles de van Emde Boas***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Amortización: Análisis Amortizado***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Aleatorización: Multiplicación de Matrices, Quicksort***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Aleatorización: Listas de Salto***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Aleatorización: Hashing Universal y Perfecto***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Aumento: Árboles de Rango***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Programación Dinámica: Programación Dinámica Avanzada***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Programación Dinámica: Caminos Más Cortos de Todos los Pares***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Algoritmos Greedy: Árbol de Expansión Mínima***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Mejora Incremental: Máximo Flujo, Corte Mínimo***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Mejora Incremental: Emparejamiento***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Programación Lineal: LP, Reducciones, Simplex***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Complejidad: P, NP, NP-completitud, Reducciones***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Complejidad: Algoritmos de Aproximación***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Complejidad: Algoritmos de Parámetros Fijos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Algoritmos Distribuidos Síncronos: Rompimiento de Simetría. Árboles de Expansión de Caminos Más Cortos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Algoritmos Distribuidos Asíncronos: Árboles de Expansión de Caminos Más Cortos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Criptografía: Funciones Hash***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Criptografía: Encriptación***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Algoritmos Cache-Oblivious: Medianas y Matrices***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Algoritmos Cache-Oblivious: Búsqueda y Ordenación***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-
-### Introducción a la probabilidad
-:soon:
-
-### Algebra Lineal
-:soon:
-
-### Introducción a la programación de bajo nivel
-:soon:
-
-### Estructuras de Computación	
-:soon:
-
-### Diseño y Arquitectura de Sistemas Computacionales
-:soon:
-
-### Sistemas de Base de datos
-:soon:
-
 ### Desarrollo de Software
 https://ocw.mit.edu/courses/6-170-software-studio-spring-2013/
 https://61040-fa23.github.io/
-:soon:
 
-### Inteligencia Artificial
-https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/video_galleries/lecture-videos/
-:soon:
 
-### Introduccion al Aprendizaje Automatico
-https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/
-:soon:
+### Proyectos
+Proximamente
