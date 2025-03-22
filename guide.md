@@ -1,18 +1,33 @@
+# NOTAS
+
+### TEMA
+
+- IDEAS PRINCIPALES
+    -   IDEAS SECUNDARIAS
+        - CASO DE USO , EJEMPLO Y/O GRAFICO
+
+- PREGUNTAS
+- 
+
+
+# PROYECTOS
+
 ### COURSE
 
 ##### Estados
-###### **Por Hacer**  :soon:  
 Proyecto esta por realizarse.
+###### **Por Hacer**  :soon:  
 
-###### **En Progreso** :arrows_counterclockwise:   
 Proyecto esta siendo trabajado.
+###### **En Progreso** :arrows_counterclockwise:   
 
-###### **Listo**  :white_check_mark: 
 Proyecto ha sido completado.
+###### **Listo**  :white_check_mark: 
+
 
 :white_check_mark: :books: :notebook_with_decorative_cover: :arrow_forward: :computer: :open_file_folder:
 
-##### PROYECTOS
+##### LISTA DE PROYECTOS
 | NOMBRE  | DIFICULTAD | DESCRIPCION | LINK | ESTADO|
 | ------- | -----------| ------------| -----| --------|
 | PROYECTO1| FACIL  |  EJECUTAR | [LINK PROYECTO](DATA)|:soon:|

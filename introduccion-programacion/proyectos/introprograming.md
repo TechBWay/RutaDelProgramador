@@ -1,20 +1,21 @@
-### COURSE
+### INTRODUCCION A LA PROGRAMACION
 
 ##### Estados
-###### **Por Hacer**  :soon:  
 Proyecto esta por realizarse.
+###### **Por Hacer**  :soon:  
 
-###### **En Progreso** :arrows_counterclockwise:   
 Proyecto esta siendo trabajado.
+###### **En Progreso** :arrows_counterclockwise:   
 
-###### **Listo**  :white_check_mark: 
 Proyecto ha sido completado.
+###### **Listo**  :white_check_mark: 
 
 
-##### PROYECTOS
-| NOMBRE  | DIFICULTAD | DESCRIPCION | LINK | ESTADO|
-| ------- | -----------| ------------| -----| --------|
-| | FACIL  |  EJECUTAR | [LINK PROYECTO](DATA)|:soon:|
+
+##### LISTA DE PROYECTOS
+| NOMBRE   | DIFICULTAD | DESCRIPCION | LINK | ESTADO|
+| -------  | -----------| ------------| -----| --------|
+| PROYECTO1| FACIL  |  EJECUTAR | [LINK PROYECTO](DATA)|:soon:|
 | PROYECTO2| FACIL  |  EJECUTAR | [LINK PROYECTO](DATA)|:soon:| 
 | PROYECTO3| FACIL  |  EJECUTAR | [LINK PROYECTO](DATA)|:soon:|
 | PROYECTO4| FACIL  |  EJECUTAR | [LINK PROYECTO](DATA)|:soon:|
