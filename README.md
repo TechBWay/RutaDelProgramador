@@ -12,7 +12,7 @@
 > Referencias de teoria
 > [MIT OCW](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
 [ :notebook_with_decorative_cover:  Notas](linkhere) | [:arrow_forward:Video](linkhere) | [:computer: Proyectos](proyectos/introprograming.md) 
-- [ ] ***Introduccion***[ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere) | [ :trophy: Ejercicios](linkhere) || [ :trophy: Ejercicios](linkhere)
+- [ ] ***Introduccion***[ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere) | [ :trophy: Ejercicios](linkhere) 
 - [ ] ***Strings, Entrada/Salida, y Condicionales***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere) || [ :trophy: Ejercicios](linkhere)
 - [ ] ***Bucles***[ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere) || [ :trophy: Ejercicios](linkhere)
 - [ ] ***Bucles sobre Strings, Binarios***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere) || [ :trophy: Ejercicios](linkhere)
