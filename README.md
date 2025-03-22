@@ -7,7 +7,7 @@
 >  - Ejercicios/Proyectos
 
 ## Contenido
-### Introduccion a la programación
+### Introduccion a la programación con Python
 >[!NOTE]
 > Referencias de teoria
 > [MIT OCW](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
