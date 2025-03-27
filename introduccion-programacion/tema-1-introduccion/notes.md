@@ -35,7 +35,7 @@
     - construida desde predefinida conjunto instrucciones primitivas
         - logica aritmentica , simples pruebas , datos en moviento
     - interprete <> ejecuta cada instruccion en orden
-    ![grafico](./../img/computer-unit.png)
+        ![grafico](./../img/computer-unit.png)
     * la memoria almacena las variables , la unidad arimetica realiza las operaciones, control unidad realiza las asignaciones 
     ![grafico-final](./../img/computer-unit-final.png)
 - Primitivos
