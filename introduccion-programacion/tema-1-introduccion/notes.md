@@ -101,13 +101,13 @@
         <object> <operator> <object>
 
 - Operaciones
-    [!operactions](./../img/operations.png)
+    ![operactions](./../img/operations.png)
 
     - ** Parentesis es parecido a matematica **
     - se opera de izquierda a derecha
 
 - Variables
-    [!variables](./../img/variables.png)
+    ![variables](./../img/variables.png)
     - una variable esta vinculada a solo un valor en el momento dado
     - puede estar vinculado a una expresion 
 - Vinculando de Variables a valores
@@ -117,11 +117,11 @@
 - Recomendaciones para variables:
     - Dar nombres que describan el valor
     - codigo facil de leer
-    [!diferencias-code](./../img/code-style.png)
+    ![diferencias-code](./../img/code-style.png)
     - el mejor codigo es el que describe los valores en variables
 - Como se ejecutan ?
     - las lineas de codigo se ejecutan en orden una tras otra
-    - [python-tuttor](https://pythontutor.com/visualize.html#mode=display)
+    -[python-tuttor](https://pythontutor.com/visualize.html#mode=display)
     - Ejemplo: 
     meters = 100
     feet = 3.2808 * meters
