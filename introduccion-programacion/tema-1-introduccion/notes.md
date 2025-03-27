@@ -74,7 +74,7 @@
 
 
 - ENTORNO DE PROGRAMACION
-    [!enviroment](./../img/enviroment.png)
+    ![enviroment](./../img/enviroment.png)
     - 1 Editor de codigo
     - 2 Shell/consola
 
