@@ -18,6 +18,7 @@
     - sequencias de pasos simples
     - flujo de control con cada paso especificado
     - determinar cuando detener el flujo
+    ![algoritmo](./../img/algoritmo.png)
     * Ejemplo : 
         Algoritmos son recetas y las recetas son algoritmos
         Honear un queque
