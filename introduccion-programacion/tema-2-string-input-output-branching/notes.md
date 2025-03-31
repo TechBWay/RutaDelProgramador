@@ -38,12 +38,13 @@
     - ejemplos
 
 - Comparacion de operaciones
-    ![comparacion](./../img/tema2-comparacion.png)
-    ![logical-boolean](./../img/tema2-logical.png)
+ diferencia entre asignacion y comparacion
+![comparacion](./../img/tema2-comparacion.png)
+![logical-boolean](./../img/tema2-logical.png)
     - ejemplos
 
 - que son los booleanos
-    - cuando algo segun el valor
+    - nos ayuda a poder determinar que hacer si es "verdadero" o "falso"
 
 - Ramificacion en python
 
