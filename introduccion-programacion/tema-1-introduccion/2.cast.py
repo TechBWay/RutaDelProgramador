@@ -1,0 +1,4 @@
+## TYPE THIS IN THE CONSOLE - CONVERT TO ANOTHER TYPE ##
+float(3)
+int(3.9)
+round(3.9)

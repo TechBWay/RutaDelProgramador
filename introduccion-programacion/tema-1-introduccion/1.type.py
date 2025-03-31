@@ -1,0 +1,4 @@
+## TYPE THIS IN THE CONSOLE - CHECK THE TYPE OF OBJECTS ##
+type(5)
+type(3.0)
+
