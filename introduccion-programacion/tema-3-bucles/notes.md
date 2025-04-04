@@ -13,7 +13,7 @@
 
 - For
     - Estructura: 
-        ![image-for](./../img/image-for.png)
+    ![image-for](./../img/image-for.png)
     - en cada momento momento toma un valor de la secuencia
     - en primer momento el primer valor ,asi sucesivamente hasta correr todos los valores
     -  un comun forma de implementar es con la funcion range
