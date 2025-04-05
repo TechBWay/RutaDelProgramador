@@ -32,7 +32,7 @@
     ```
         range(start,stop,step)
     ```
-    - ejemplo : for.py
+    - ejemplo : range.py
     
 
 
