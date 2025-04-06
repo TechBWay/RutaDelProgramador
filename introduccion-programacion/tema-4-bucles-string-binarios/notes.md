@@ -17,4 +17,10 @@
 
 ![alt text](./../img/forvswhile.png)
 
+# BINARIOS
+
+- un binario es el estado son 0 y 1 , osea por un voltaje o el spin magnetico de los electrones
+
+![binarios](./../img/binarios.png)
+
 ## TODO LO QUE NECESITAMOS PARA HACER UN ALGORITMO
