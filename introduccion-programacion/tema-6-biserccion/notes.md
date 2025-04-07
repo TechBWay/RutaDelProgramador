@@ -1,6 +1,6 @@
 # NOTAS
 
-# BUSQUEDA DE BISECCION
+# BUSQUEDA DE BISECCION | BINARIA
 
 - un metodo que permite encontrar soluciones acotando espacios
 - el proceso se va acotando de forma iterativa reduciendo de N a N/2
