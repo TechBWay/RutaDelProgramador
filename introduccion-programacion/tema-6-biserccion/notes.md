@@ -12,8 +12,14 @@
     n=> n/2^n
     quiere decir que va creciendo de forma logartimica
 ```
-![img](./../img/search-biseccion.png)
-
+- escogemos el numero central 
+![search-1](./../img/search-1.png)
+- determinamos si el numero a buscar es mayor o menor al central y encontramos luego nuevo punto medio
+![search-2](./../img/search-2.png)
+- volvemos a realizar la pregunta y nuevo valor central
+![search-3](./../img/search-3.png)
+- realizamos nuevamente el proceso
+![search-4](./../img/search-4.png)
 - existe un metodo mas eficiente => newton raphson 
 
 ### CONCLUSION
