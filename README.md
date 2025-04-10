@@ -68,8 +68,70 @@
 - [ ] ***Desviaciones Grandes***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere) | | [ :trophy: Ejercicios](linkhere)
 - [ ] ***Caminos Aleatorios***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere) | | [ :trophy: Ejercicios](linkhere)
 
+### Estructuras de Computación	
+>[!NOTE]
+> Referencias de teoria
+> [MIT OCW](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)
 
-###  Introduccion a los Algoritmos
+- [ ]  ***Conceptos básicos de la información: entropía, codificaciones, corrección de errores*** :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] La abstracción digital: lógica combinacional, codificación basada en voltaje :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] CMOS: MOSFETs, diseño de compuertas; temporización :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Lógica combinacional: formas canónicas, síntesis, simplificación :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Lógica secuencial: biestables, registros, temporización :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Máquinas de estados finitos (FSM); entradas asíncronas y metastabilidad :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Medidas de rendimiento: rendimiento (throughput) y latencia, segmentación (pipelining) :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Compromisos de diseño: potencia, velocidad, área, rendimiento :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Arquitecturas von Neumann, conjunto de instrucciones Beta :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Lenguaje ensamblador :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Compilación de expresiones y sentencias :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Pilas y procedimientos :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Implementación de Beta :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Memorias multinivel: localidad, rendimiento, cachés :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Problemas de diseño de caché :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Segmentación del Beta: diagramas de segmentación, riesgos de datos :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Segmentación del Beta: riesgos de control, manejo de excepciones :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Memoria virtual: mapeo, protección, contextos :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Máquinas virtuales: multitarea, núcleos del SO, llamadas al supervisor :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Dispositivos e interrupciones; tiempo real :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Procesos comunicantes: semáforos, sincronización, atomicidad, interbloqueo :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Comunicación a nivel de sistema :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Procesamiento en paralelo: límites de rendimiento, paralelismo a nivel de datos e hilos :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+- [ ] Construyendo un Mejor Beta: consejos para el proyecto de diseño :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
+
+### Software Construction
+>[!NOTE]
+> Referencias de teoria
+> [MIT OCW](https://web.mit.edu/6.102/www/sp24/)
+
+- [ ] ***Introduccion***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Instalación de Software***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Consejos Técnicos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Git: Control de Versiones***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Git: Recuperación ante Desastres***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Git: Control de Versiones en Equipo***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***TypeScript Básico***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Comprobación Estática***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Pruebas***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Revisión de Código(code review)***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Especificaciones***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Diseñando Especificaciones***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Tipos de Datos Abstractos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Funciones de Abstracción & Invariantes de Representación***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Interfaces & Subtipado***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Programación Funcional***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Igualdad***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Tipos de Datos Recursivos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Gramáticas & Análisis Sintáctico***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Depuración***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Concurrencia***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Promesas***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Exclusión Mutua***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Callbacks & Interfaces Gráficas de Usuario***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Paso de Mensajes & Redes***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+- [ ] ***Lenguajes Pequeños***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
+
+
+### Introduccion a los Algoritmos
 >[!NOTE]
 > Referencias de teoria
 > [MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
@@ -133,36 +195,6 @@
 
 
 
-### Estructuras de Computación	
->[!NOTE]
-> Referencias de teoria
-> [MIT OCW](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)
-
-- [ ]  ***Conceptos básicos de la información: entropía, codificaciones, corrección de errores*** :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] La abstracción digital: lógica combinacional, codificación basada en voltaje :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] CMOS: MOSFETs, diseño de compuertas; temporización :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Lógica combinacional: formas canónicas, síntesis, simplificación :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Lógica secuencial: biestables, registros, temporización :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Máquinas de estados finitos (FSM); entradas asíncronas y metastabilidad :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Medidas de rendimiento: rendimiento (throughput) y latencia, segmentación (pipelining) :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Compromisos de diseño: potencia, velocidad, área, rendimiento :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Arquitecturas von Neumann, conjunto de instrucciones Beta :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Lenguaje ensamblador :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Compilación de expresiones y sentencias :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Pilas y procedimientos :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Implementación de Beta :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Memorias multinivel: localidad, rendimiento, cachés :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Problemas de diseño de caché :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Segmentación del Beta: diagramas de segmentación, riesgos de datos :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Segmentación del Beta: riesgos de control, manejo de excepciones :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Memoria virtual: mapeo, protección, contextos :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Máquinas virtuales: multitarea, núcleos del SO, llamadas al supervisor :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Dispositivos e interrupciones; tiempo real :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Procesos comunicantes: semáforos, sincronización, atomicidad, interbloqueo :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Comunicación a nivel de sistema :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Procesamiento en paralelo: límites de rendimiento, paralelismo a nivel de datos e hilos :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-- [ ] Construyendo un Mejor Beta: consejos para el proyecto de diseño :notebook_with_decorative_cover: Notas | :arrow_forward:Video  
-
 
 ### Sistemas Operativos
 >[!NOTE]
@@ -176,38 +208,6 @@
 > Referencias de teoria
 > [MIT OCW](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/)
 
-
-### Software Construction
->[!NOTE]
-> Referencias de teoria
-> [MIT OCW](https://web.mit.edu/6.102/www/sp24/)
-
-- [ ] ***Introduccion***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Instalación de Software***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Consejos Técnicos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Git: Control de Versiones***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Git: Recuperación ante Desastres***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Git: Control de Versiones en Equipo***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***TypeScript Básico***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Comprobación Estática***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Pruebas***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Revisión de Código(code review)***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Especificaciones***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Diseñando Especificaciones***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Tipos de Datos Abstractos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Funciones de Abstracción & Invariantes de Representación***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Interfaces & Subtipado***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Programación Funcional***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Igualdad***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Tipos de Datos Recursivos***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Gramáticas & Análisis Sintáctico***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Depuración***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Concurrencia***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Promesas***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Exclusión Mutua***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Callbacks & Interfaces Gráficas de Usuario***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Paso de Mensajes & Redes***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
-- [ ] ***Lenguajes Pequeños***  [ :notebook_with_decorative_cover:  Notas](linkhere)  | [:arrow_forward:Video](linkhere)
 
 
 ### Desarrollo de Software
